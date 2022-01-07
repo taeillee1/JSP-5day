@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>hello test1</h3>
+	<a href="index">back home</a>
+	ID : <input type="text" name="studentId"><br> 
+	비밀번호 : <input type="password" name="studentPwd"><br>
+</body>
+</html>

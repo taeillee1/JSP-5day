@@ -1,0 +1,16 @@
+
+1월 05, 2022 15:15:15.272 NEW SESSION
+1월 05, 2022 15:15:15.272 [5272:9228:0105/151515.269:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 05, 2022 15:15:15.273 [5272:9228:0105/151515.270:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 05, 2022 15:15:15.273 [5272:9228:0105/151515.270:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 05, 2022 15:15:15.273 [5272:9228:0105/151515.271:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 05, 2022 15:15:15.287 [5272:5188:0105/151515.287:ERROR:device_event_log_impl.cc(214)] [15:15:15.287] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 05, 2022 15:15:15.288 [5272:5188:0105/151515.288:ERROR:device_event_log_impl.cc(214)] [15:15:15.287] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 05, 2022 15:15:15.288 [5272:5188:0105/151515.288:ERROR:device_event_log_impl.cc(214)] [15:15:15.288] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 05, 2022 16:25:39.583 [5272:5188:0105/162539.583:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+1월 05, 2022 16:25:39.584     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+1월 05, 2022 16:31:35.812 [5272:5188:0105/163135.811:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+1월 05, 2022 16:31:35.812     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+1월 05, 2022 16:39:50.460 [5272:5188:0105/163950.460:ERROR:device_event_log_impl.cc(214)] [16:39:50.459] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)
+1월 05, 2022 16:50:50.405 [5272:5188:0105/165050.405:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+1월 05, 2022 16:50:50.405     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
